@@ -53,8 +53,7 @@ class HelperFunctions:
           answer = round(answer, 2)
         
         return answer
-
-    #TODO: validate that input is indeed a numpy array     
+    
     def medAbDev(inputArr):
       """
       This functions calculates the median absolute deviation of a given one dimensional numpy array of any size.
